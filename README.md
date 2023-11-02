@@ -7,11 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=shubhangii-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangii-mishra profile views" />
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhangii-mishra&theme=onedark" alt="shubhangii-mishra trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frameworks/flutter.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <!-- Add more languages and tools as needed -->
 </p>
+
 
 - 💬 Ask me about **Flutter, Dart, JAVA**
 - 📫 How to reach me: [shubhangi270617@gmail.com](mailto:shubhangi270617@gmail.com)
