@@ -24,27 +24,7 @@
   </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubhangi-mishra-91857a210/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shubhangi Mishra LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/shubhangi270617/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shubhangi Mishra LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="Java" width="40" height="40"/>
-  
-  <img src="[https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frameworks/flutter.svg](https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667)" alt="Flutter" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/ddab19cf066e0086c8766d3fd2f5cf0e17f41fbb728a1c2b475848ab9266f58a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646172742e737667" alt="Dart" width="40" height="40"/>
-  <!-- Add more languages and tools as needed -->
-</p>
 
 <h3 align="left">Stars</h3>
 
